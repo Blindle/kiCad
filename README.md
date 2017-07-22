@@ -1,0 +1,2 @@
+# kiCad
+electronic circuit - schema
