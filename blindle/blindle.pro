@@ -1,4 +1,4 @@
-update=17/07/2017 09:06:24 p.m.
+update=24/7/2017 9:56:00 a. m.
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,4 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=C:/Users/esteb/Documents/kidCad/pololu/pololu-cache
+LibName30=C:/Users/Esteban/Documents/kiCad/kiCad/pololu/pololu-cache
