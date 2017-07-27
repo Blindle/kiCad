@@ -1257,10 +1257,6 @@ Wire Wire Line
 Wire Wire Line
 	1500 3300 1500 1750
 Connection ~ 1500 1750
-Wire Wire Line
-	1000 3400 1600 3400
-Wire Wire Line
-	1600 3400 1600 2050
 Connection ~ 1600 2050
 Wire Wire Line
 	1000 3100 1800 3100
@@ -1278,4 +1274,8 @@ Text Label 8150 7650 0    60   ~ 0
 25/07/2017
 Text Label 10600 7650 0    60   ~ 0
 v1
+Text GLabel 1350 3400 2    60   Input ~ 0
+dir
+Wire Wire Line
+	1000 3400 1350 3400
 $EndSCHEMATC
