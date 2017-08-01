@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/Users/esteb/Documents/kidCad/kiCad/blindle/blindle.sch)
-    (date "26/07/2017 10:08:55 p.m.")
+    (date "31/07/2017 10:44:57 p.m.")
     (tool "Eeschema 4.0.6")
     (sheet (number 1) (name /) (tstamps /)
       (title_block

@@ -1,0 +1,171 @@
+Cmp-Mod V01 Created by PcbNew   date = 31/07/2017 10:47:12 p.m.
+
+BeginCmp
+TimeStamp = 59711014
+Path = /596D6045
+Reference = M1;
+ValeurCmp = 74HC595;
+IdModule  = Housings_DIP:DIP-16_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 59711028
+Path = /596D5110
+Reference = P1;
+ValeurCmp = pololua4988;
+IdModule  = pololu:pololua4988;
+EndCmp
+
+BeginCmp
+TimeStamp = 59724280
+Path = /5972411D
+Reference = PP2;
+ValeurCmp = CONN_MOTOR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 597207DC
+Path = /597209E5
+Reference = J2;
+ValeurCmp = CONN_8V;
+IdModule  = Connectors:bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = 597207C8
+Path = /5972050A
+Reference = J1;
+ValeurCmp = CONN_5V;
+IdModule  = Connectors:PINHEAD1-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 59711030
+Path = /596D5545
+Reference = PP1;
+ValeurCmp = CONN_MOTOR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59711000
+Path = /596D53A9
+Reference = I1;
+ValeurCmp = CONN_ARDUINO;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5975FFFE
+Path = /59761993
+Reference = PP3;
+ValeurCmp = CONN_MOTOR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59760016
+Path = /59762BE6
+Reference = PP4;
+ValeurCmp = CONN_MOTOR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59760174
+Path = /59762BE0
+Reference = P4;
+ValeurCmp = pololua4988;
+IdModule  = pololu:pololua4988;
+EndCmp
+
+BeginCmp
+TimeStamp = 5976015A
+Path = /5976198D
+Reference = P3;
+ValeurCmp = pololua4988;
+IdModule  = pololu:pololua4988;
+EndCmp
+
+BeginCmp
+TimeStamp = 59724268
+Path = /59724117
+Reference = P2;
+ValeurCmp = pololua4988;
+IdModule  = pololu:pololua4988;
+EndCmp
+
+BeginCmp
+TimeStamp = 597638F9
+Path = /59767E1F
+Reference = I2;
+ValeurCmp = CONN_MULTI2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59763913
+Path = /5976657A
+Reference = P5;
+ValeurCmp = pololua4988;
+IdModule  = pololu:pololua4988;
+EndCmp
+
+BeginCmp
+TimeStamp = 5976392D
+Path = /59766596
+Reference = P6;
+ValeurCmp = pololua4988;
+IdModule  = pololu:pololua4988;
+EndCmp
+
+BeginCmp
+TimeStamp = 59763947
+Path = /597665EC
+Reference = P7;
+ValeurCmp = pololua4988;
+IdModule  = pololu:pololua4988;
+EndCmp
+
+BeginCmp
+TimeStamp = 59763961
+Path = /59766628
+Reference = P8;
+ValeurCmp = pololua4988;
+IdModule  = pololu:pololua4988;
+EndCmp
+
+BeginCmp
+TimeStamp = 59763979
+Path = /59766580
+Reference = PP5;
+ValeurCmp = CONN_MOTOR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59763991
+Path = /5976659C
+Reference = PP6;
+ValeurCmp = CONN_MOTOR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 597639A9
+Path = /597665F2
+Reference = PP7;
+ValeurCmp = CONN_MOTOR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 597639C1
+Path = /5976662E
+Reference = PP8;
+ValeurCmp = CONN_MOTOR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+EndListe
